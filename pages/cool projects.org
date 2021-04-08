@@ -1,0 +1,31 @@
+#+TITLE: Cool projects
+
+** [[]]
+:PROPERTIES:
+:url: 
+:description: 
+:type: project
+:template: project
+:END:
+** [[fission]]
+:PROPERTIES:
+:url: https://fission.codes/
+:description: Fast app publishing
+:type: project
+:END:
+***
+#+BEGIN_QUOTE
+Use React, Vue, Elm — any front end frameworks you already know — to build your app, and power up with Fission's SDK and app publishing platform. Add user accounts, keep user data secure and encrypted, and sync data anywhere that runs a web browser. 
+#+END_QUOTE
+** [[deta.space]]
+:PROPERTIES:
+:url: https://deta.space/
+:description: Where web apps are yours.
+:type: project
+:END:
+*** 
+#+BEGIN_QUOTE
+All apps you find and use on Deta run in your own sandboxed ‘personal cloud’.
+
+You control your apps and your data, while app developers don't touch your infrastructure (unless you are the developer 🤓).
+#+END_QUOTE

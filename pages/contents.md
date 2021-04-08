@@ -1,3 +1,4 @@
+## [[Introduction to Logseq]]
 ## What's **Contents**?
 ### It's a normal page called [[Contents]], you can use it for:
 #### 1. table of content/index/MOC
